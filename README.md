@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Stats
+
+[![Benoit Anastay's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=BenoitAnastay&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/BenoitAnastay/#gh-dark-mode-only)
+[![Benoit Anastay's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=BenoitAnastay&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/BenoitAnastay/#gh-light-mode-only)
+
+
+[![Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=BenoitAnastay&theme=dark&layout=compact#gh-dark-mode-only)](https://github.com/BenoitAnastay/#gh-dark-mode-only)
+[![Top Langs-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=BenoitAnastay&layout=compact#gh-light-mode-only)](https://github.com/BenoitAnastay/#gh-light-mode-only)

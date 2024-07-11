@@ -10,6 +10,7 @@ Nowaday I'm playing around with Home Assistant, trying to run everything I need 
 
 #### ⚡ Some others facts :
 
+- 🗣️ こんにちは！ベンワです。日本語を学びます。(_I'm currently learning Japanese_) 
 - 🚀 I’m currently working on _Authelia and Nginx Proxy Manager_ based solution to manage ACL for both HA fronted and it's Add-ons
 - 👯 I'm looking for a job in Poitiers
 - 🐧 I like penguins and maybe a little because it's the linux mascot
